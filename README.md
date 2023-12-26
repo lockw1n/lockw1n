@@ -13,6 +13,6 @@
 
 - 📫 You can reach me at [@lockw1n](https://twitter.com/lockw1n)
 
-- ⚡️ I worked mainly for [Spryker](https://github.com/spryker) and on [SprykerEco](https://github.com/spryker-eco) (developed most of the third party integration for Spryker)
+- ⚡️ I worked mainly for [Spryker](https://github.com/spryker) and on [SprykerEco](https://github.com/spryker-eco) (developed most of the third party integrations for Spryker)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksey-kotsuba&show_icons=true&locale=en" alt="aleksey-kotsuba" /></p>
