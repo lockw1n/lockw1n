@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there! 👋</h1>
-<h2 align="center">I'm Aleksey Kotsuba (Oleksii Kotsuiba), known as well as lockw1n.</h2>
+<h2 align="center">I'm Aleksey Kotsuba (Oleksii Kotsuiba), known as lockw1n.</h2>
 <p>I'm from 🇺🇦. Worked a lot on different E-commerce projects based on PHP. Was a tech lead and solution architect at Spryker GmbH where built many solutions for large customers. Currently serving in military forces to defend our freedom.</p>
 
 <p align="center">
